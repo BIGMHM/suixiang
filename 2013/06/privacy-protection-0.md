@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb18030" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="Python script by program.think@gmail.com" />
 <meta name="provider" content="program-think.blogspot.com" />
 <link type="text/css" rel="stylesheet" href="../../css/program-think.css" />
-<title>ÈçºÎ±£»¤ÒþË½[0]£ºÎªÉ¶Ð´Õâ¸ö»°Ìâ£¿ - ±à³ÌËæÏëµÄ²©¿Í</title>
+<title>å¦‚ä½•ä¿æŠ¤éšç§[0]ï¼šä¸ºå•¥å†™è¿™ä¸ªè¯é¢˜ï¼Ÿ - ç¼–ç¨‹éšæƒ³çš„åšå®¢</title>
 </head>
 <body>
 <div id="main" style="width:100%;">
-<h1><a href="../../index.md" title="»Øµ½Ê×Ò³">ÈçºÎ±£»¤ÒþË½[0]£ºÎªÉ¶Ð´Õâ¸ö»°Ìâ£¿</a></h1>
-<div class="post-info"><span class="date-header">2013-06-23</span><a href="../../tags/IT.md" class="tag">IT</a> <a href="../../tags/IT.E4BFA1E681AFE5AE89E585A8.md" class="tag">IT.ÐÅÏ¢°²È«</a> </div>
+<h1><a href="../../index.md" title="å›žåˆ°é¦–é¡µ">å¦‚ä½•ä¿æŠ¤éšç§[0]ï¼šä¸ºå•¥å†™è¿™ä¸ªè¯é¢˜ï¼Ÿ</a></h1>
+<div class="post-info"><span class="date-header">2013-06-23</span><a href="../../tags/IT.md" class="tag">IT</a> <a href="../../tags/IT.E4BFA1E681AFE5AE89E585A8.md" class="tag">IT.ä¿¡æ¯å®‰å…¨</a> </div>
 <hr>
 <div class="post">
-<h2>¡ïÒý×Ó</h2><br />&#12288;&#12288;Ç°²»¾ÃÃÀ¹ú±¬·¢ÁË¡°Àâ¾µÃÅ¡±³óÎÅ¡£ÕâÊÂ¶ùÔÙ¶È¼¤ÆðÁË´ó»ï¶ù¶ÔÒþË½µÄ¹Ø×¢¡£Ó¦¶àÎ»¶ÁÕßµÄÒªÇó£¬°³½ñÌìÀ´ÁÄÒ»ÏÂ IT ÁìÓòµÄÒþË½·À·¶¡£±¾À´ÏëÒ»Æª²©ÎÄ¸ã¶¨£¬Ð´×ÅÐ´×Å·¢ÏÖÕâ¸ö»°ÌâÍ¦´óµÄ£¬Ö»ºÃÔÙÍÚÒ»¸ö¿Ó¡£<a name='more'></a><!--program-think--><br />&#12288;&#12288;°³ÍÚµÄ¿ÓÓÐµã¶à£¬»¹Íû´ó»ï¶ùÁÂ½âÅ¶¡£Ò»·½ÃæÊÇÒªÕÕ¹Ëµ½²»Í¬ÐèÇóµÄ¶ÁÕß£»ÁíÒ»·½ÃæÊÇ°³ÏëÌôÕ½×Ô¼ºÐ´²©µÄÄÜÁ¦¡£ÁíÍâ£¬×î½ü2ÖÜÓÐ´óÁ¿Ö°ÒµÍøÆÀÔ±µ½°³²©¿ÍÁôÑÔ£¬ÕâÊÇ¶Ô°³µÄ¾Þ´ó¹ÄÀø :)<br /><br /><h2>¡ï±¾ÏµÁÐµÄÄ¿±ê¶ÁÕßÈº</h2><br />&#12288;&#12288;±¾ÏµÁÐÃæÏòµÄÊÇ²»Ì«¶®¼¼ÊõµÄ¶ÁÕß£¬¾¡Á¿²»Éæ¼°Ì«Éî°ÂµÄ¼¼ÊõÏ¸½Ú¡£<br />&#12288;&#12288;±¾ÏµÁÐµÄÖØµãÊÇ¡°ÒþË½±£»¤¡±£¬¶ø²»ÊÇ¡°ÒþÄäÐÔ±£»¤¡±£¨¹ØÓÚ¡°ÒþÄäÐÔ±£»¤¡±£¬Çë¿´°³ÁíÒ»¸öÏµÁÐ¡¶<a href="../../2010/04/howto-cover-your-tracks-0.md">ÈçºÎÒþ²ØÄãµÄ×Ù¼££¬±ÜÃâ¿çÊ¡×·²¶</a>¡·£©¡£<br />&#12288;&#12288;¶ÔÓÚ´ó²¿·ÖÆÕÍ¨ÍøÓÑ£¬Ö»ÐèÒª×¢ÖØ¡°ÒþË½±£»¤¡±¾Í¹»ÁË£»¡°ÒþÄäÐÔ±£»¤¡±ÊÇÃæÏòÄÇÐ©´ÓÊÂÎ£ÏÕÍøÂçÐÐÎªµÄÍøÃñ£¨±ÈÈçÏñ°³ÕâÑù£¬<b>¹«¿ª·¢²¼</b>Ãô¸ÐÕþÖÎÑÔÂÛ£¬<b>¹«¿ª</b>Ä¨ºÚµ³¹ú£©¡£<br /><br /><h2>¡ï±¾ÏµÁÐµÄÄ¿Â¼</h2><a name="index"> </a><br /><br />ÎªÁË·½±ãÔÄ¶Á£¬°Ñ±¾ÏµÁÐÌû×ÓµÄÄ¿Â¼ÕûÀíÈçÏÂ£¨Ðè·­Ç½£©£º <br />1. <a href="../../2013/06/privacy-protection-1.md">ÈçºÎÑ¡ÔñÈí¼þºÍ·þÎñ£¿</a><br />2. <a href="../../2013/06/privacy-protection-2.md">¹ØÓÚä¯ÀÀÆ÷µÄ»ù±¾·À·¶£¨ÉÏ£©</a><br />3. <a href="../../2013/07/privacy-protection-3.md">¹ØÓÚä¯ÀÀÆ÷µÄ»ù±¾·À·¶£¨ÖÐ£©</a><br />4. <a href="../../2013/07/privacy-protection-4.md">¹ØÓÚä¯ÀÀÆ÷µÄ»ù±¾·À·¶£¨ÏÂ£©</a><br />5. <a href="../../2014/01/privacy-protection-5.md">É¨Ã¤¡°ä¯ÀÀÆ÷Ö¸ÎÆ¡±</a><br />6. <a href="../../2014/01/privacy-protection-6.md">ÈçºÎ·À·¶¡°ä¯ÀÀÆ÷Ö¸ÎÆ¡±£¿</a><br />7. <a href="../../2014/08/privacy-protection-7.md">ÆäËü×ÀÃæÈí¼þµÄÒþË½ÎÊÌâ</a><br />8. <a href="../../2014/08/privacy-protection-8.md">Á÷Ã¥µÄ×ÀÃæÈí¼þÓÐÄÄÐ©Ìæ´úÆ·£¿</a><br />9. <a href="../../2014/08/privacy-protection-9.md">ÈçºÎÏÞÖÆ×ÀÃæÈí¼þµÄÁ÷Ã¥ÐÐÎª£¿</a><br />10. »¥ÁªÍø·þÎñµÄÒþË½ÎÊÌâ<br />11. »¥ÁªÍø·þÎñµÄ·À·¶´ëÊ©<br />12. ÒÆ¶¯Éè±¸µÄÒþË½ÎÊÌâ<br />13. ÒÆ¶¯Éè±¸µÄ·À·¶´ëÊ©<br />14. £¨Î´Íê´ýÐø£©<div class="blogger-post-footer">
+<h2>â˜…å¼•å­</h2><br />&#12288;&#12288;å‰ä¸ä¹…ç¾Žå›½çˆ†å‘äº†â€œæ£±é•œé—¨â€ä¸‘é—»ã€‚è¿™äº‹å„¿å†åº¦æ¿€èµ·äº†å¤§ä¼™å„¿å¯¹éšç§çš„å…³æ³¨ã€‚åº”å¤šä½è¯»è€…çš„è¦æ±‚ï¼Œä¿ºä»Šå¤©æ¥èŠä¸€ä¸‹ IT é¢†åŸŸçš„éšç§é˜²èŒƒã€‚æœ¬æ¥æƒ³ä¸€ç¯‡åšæ–‡æžå®šï¼Œå†™ç€å†™ç€å‘çŽ°è¿™ä¸ªè¯é¢˜æŒºå¤§çš„ï¼Œåªå¥½å†æŒ–ä¸€ä¸ªå‘ã€‚<a name='more'></a><!--program-think--><br />&#12288;&#12288;ä¿ºæŒ–çš„å‘æœ‰ç‚¹å¤šï¼Œè¿˜æœ›å¤§ä¼™å„¿è°…è§£å“¦ã€‚ä¸€æ–¹é¢æ˜¯è¦ç…§é¡¾åˆ°ä¸åŒéœ€æ±‚çš„è¯»è€…ï¼›å¦ä¸€æ–¹é¢æ˜¯ä¿ºæƒ³æŒ‘æˆ˜è‡ªå·±å†™åšçš„èƒ½åŠ›ã€‚å¦å¤–ï¼Œæœ€è¿‘2å‘¨æœ‰å¤§é‡èŒä¸šç½‘è¯„å‘˜åˆ°ä¿ºåšå®¢ç•™è¨€ï¼Œè¿™æ˜¯å¯¹ä¿ºçš„å·¨å¤§é¼“åŠ± :)<br /><br /><h2>â˜…æœ¬ç³»åˆ—çš„ç›®æ ‡è¯»è€…ç¾¤</h2><br />&#12288;&#12288;æœ¬ç³»åˆ—é¢å‘çš„æ˜¯ä¸å¤ªæ‡‚æŠ€æœ¯çš„è¯»è€…ï¼Œå°½é‡ä¸æ¶‰åŠå¤ªæ·±å¥¥çš„æŠ€æœ¯ç»†èŠ‚ã€‚<br />&#12288;&#12288;æœ¬ç³»åˆ—çš„é‡ç‚¹æ˜¯â€œéšç§ä¿æŠ¤â€ï¼Œè€Œä¸æ˜¯â€œéšåŒ¿æ€§ä¿æŠ¤â€ï¼ˆå…³äºŽâ€œéšåŒ¿æ€§ä¿æŠ¤â€ï¼Œè¯·çœ‹ä¿ºå¦ä¸€ä¸ªç³»åˆ—ã€Š<a href="../../2010/04/howto-cover-your-tracks-0.md">å¦‚ä½•éšè—ä½ çš„è¸ªè¿¹ï¼Œé¿å…è·¨çœè¿½æ•</a>ã€‹ï¼‰ã€‚<br />&#12288;&#12288;å¯¹äºŽå¤§éƒ¨åˆ†æ™®é€šç½‘å‹ï¼Œåªéœ€è¦æ³¨é‡â€œéšç§ä¿æŠ¤â€å°±å¤Ÿäº†ï¼›â€œéšåŒ¿æ€§ä¿æŠ¤â€æ˜¯é¢å‘é‚£äº›ä»Žäº‹å±é™©ç½‘ç»œè¡Œä¸ºçš„ç½‘æ°‘ï¼ˆæ¯”å¦‚åƒä¿ºè¿™æ ·ï¼Œ<b>å…¬å¼€å‘å¸ƒ</b>æ•æ„Ÿæ”¿æ²»è¨€è®ºï¼Œ<b>å…¬å¼€</b>æŠ¹é»‘å…šå›½ï¼‰ã€‚<br /><br /><h2>â˜…æœ¬ç³»åˆ—çš„ç›®å½•</h2><a name="index"> </a><br /><br />ä¸ºäº†æ–¹ä¾¿é˜…è¯»ï¼ŒæŠŠæœ¬ç³»åˆ—å¸–å­çš„ç›®å½•æ•´ç†å¦‚ä¸‹ï¼ˆéœ€ç¿»å¢™ï¼‰ï¼š <br />1. <a href="../../2013/06/privacy-protection-1.md">å¦‚ä½•é€‰æ‹©è½¯ä»¶å’ŒæœåŠ¡ï¼Ÿ</a><br />2. <a href="../../2013/06/privacy-protection-2.md">å…³äºŽæµè§ˆå™¨çš„åŸºæœ¬é˜²èŒƒï¼ˆä¸Šï¼‰</a><br />3. <a href="../../2013/07/privacy-protection-3.md">å…³äºŽæµè§ˆå™¨çš„åŸºæœ¬é˜²èŒƒï¼ˆä¸­ï¼‰</a><br />4. <a href="../../2013/07/privacy-protection-4.md">å…³äºŽæµè§ˆå™¨çš„åŸºæœ¬é˜²èŒƒï¼ˆä¸‹ï¼‰</a><br />5. <a href="../../2014/01/privacy-protection-5.md">æ‰«ç›²â€œæµè§ˆå™¨æŒ‡çº¹â€</a><br />6. <a href="../../2014/01/privacy-protection-6.md">å¦‚ä½•é˜²èŒƒâ€œæµè§ˆå™¨æŒ‡çº¹â€ï¼Ÿ</a><br />7. <a href="../../2014/08/privacy-protection-7.md">å…¶å®ƒæ¡Œé¢è½¯ä»¶çš„éšç§é—®é¢˜</a><br />8. <a href="../../2014/08/privacy-protection-8.md">æµæ°“çš„æ¡Œé¢è½¯ä»¶æœ‰å“ªäº›æ›¿ä»£å“ï¼Ÿ</a><br />9. <a href="../../2014/08/privacy-protection-9.md">å¦‚ä½•é™åˆ¶æ¡Œé¢è½¯ä»¶çš„æµæ°“è¡Œä¸ºï¼Ÿ</a><br />10. <a href="../../2015/01/privacy-protection-10.md">ç§»åŠ¨è®¾å¤‡çš„éšç§é—®é¢˜</a><br />11. ç§»åŠ¨è®¾å¤‡çš„é˜²èŒƒæŽªæ–½<br />12. äº’è”ç½‘æœåŠ¡çš„éšç§é—®é¢˜<br />13. äº’è”ç½‘æœåŠ¡çš„é˜²èŒƒæŽªæ–½<br />14. ï¼ˆæœªå®Œå¾…ç»­ï¼‰<div class="blogger-post-footer">
 </div>
 <hr>
 <div class="copyright">
-<h4>°æÈ¨ÉùÃ÷</h4>
-±¾²©¿ÍËùÓÐµÄÔ­´´ÎÄÕÂ£¬×÷Õß½Ô±£Áô°æÈ¨¡£×ªÔØ±ØÐë°üº¬±¾ÉùÃ÷£¬±£³Ö±¾ÎÄÍêÕû£¬²¢ÒÔ³¬Á´½ÓÐÎÊ½×¢Ã÷×÷Õß<a href="mailto:program.think@gmail.com">±à³ÌËæÏë</a>ºÍ±¾ÎÄÔ­Ê¼ÍøÖ·£º<br>
-<a href="/2013/06/privacy-protection-0.md">2013/06/privacy-protection-0.md</a>
+<h4>ç‰ˆæƒå£°æ˜Ž</h4>
+æœ¬åšå®¢æ‰€æœ‰çš„åŽŸåˆ›æ–‡ç« ï¼Œä½œè€…çš†ä¿ç•™ç‰ˆæƒã€‚è½¬è½½å¿…é¡»åŒ…å«æœ¬å£°æ˜Žï¼Œä¿æŒæœ¬æ–‡å®Œæ•´ï¼Œå¹¶ä»¥è¶…é“¾æŽ¥å½¢å¼æ³¨æ˜Žä½œè€…<a href="mailto:program.think@gmail.com">ç¼–ç¨‹éšæƒ³</a>å’Œæœ¬æ–‡åŽŸå§‹ç½‘å€ï¼š<br>
+<a href="2013/06/privacy-protection-0.md">2013/06/privacy-protection-0.md</a>
 </div>
 </div>
 </body>
